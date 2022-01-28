@@ -1,0 +1,1 @@
+percentage of trend due to volatility = [(.1759798 - .1044437) / 0.1759798] * 100 = 40.65%
